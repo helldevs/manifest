@@ -297,6 +297,7 @@
   <project path="libcore" name="SlimRoms/platform_libcore" remote="github" revision="kk4.4" />
   <project path="libnativehelper" name="platform/libnativehelper" groups="pdk-java" />
   <project path="ndk" name="platform/ndk" />
+  <project path="packages/apps/Apollo" name="Hellybean/android_packages_apps_Apollo" remote="github" revision="cm-11.0" />
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" />
   <project path="packages/apps/Bluetooth" name="SlimRoms/packages_apps_Bluetooth" remote="github" revision="kk4.4" />
   <project path="packages/apps/Browser" name="SlimRoms/packages_apps_Browser" remote="github" revision="kk4.4" />
@@ -317,11 +318,8 @@
   <project path="packages/apps/HTMLViewer" name="platform/packages/apps/HTMLViewer" />
   <project path="packages/apps/InCallUI" name="SlimRoms/packages_apps_InCallUI" remote="github" revision="kk4.4" />
   <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" />
-  <project path="packages/apps/Launcher2" name="platform/packages/apps/Launcher2" />
-  <project path="packages/apps/Launcher3" name="platform/packages/apps/Launcher3" />
   <project path="packages/apps/LegacyCamera" name="platform/packages/apps/LegacyCamera" />
   <project path="packages/apps/Mms" name="SlimRoms/packages_apps_Mms" remote="github" revision="kk4.4" />
-  <project path="packages/apps/Music" name="platform/packages/apps/Music" />
   <project path="packages/apps/MusicFX" name="SlimRoms/packages_apps_MusicFX" remote="github" revision="kk4.4" />
   <project path="packages/apps/Nfc" name="SlimRoms/packages_apps_Nfc" remote="github" revision="kk4.4" />
   <project path="packages/apps/OneTimeInitializer" name="platform/packages/apps/OneTimeInitializer" />
@@ -338,6 +336,7 @@
   <project path="packages/apps/SpeechRecorder" name="platform/packages/apps/SpeechRecorder" />
   <project path="packages/apps/Stk" name="platform/packages/apps/Stk" />
   <project path="packages/apps/Tag" name="platform/packages/apps/Tag" />
+  <project path="packages/apps/Trebuchet" name="Hellybean/android_packages_apps_Trebuchet" remote="github" revision="cm-11.0" />
   <project path="packages/apps/Torch" name="SlimRoms/packages_apps_Torch" remote="github" revision="kk4.4" />
   <project path="packages/apps/UnifiedEmail" name="SlimRoms/packages_apps_UnifiedEmail" remote="github" revision="kk4.4" />
   <project path="packages/apps/VideoEditor" name="platform/packages/apps/VideoEditor" />
@@ -444,11 +443,11 @@
   <!-- Slim OTA -->
   <project path="packages/apps/SlimCenter" name="SlimRoms/packages_apps_SlimCenter" remote="github" revision="kk4.4" />
 
-  <!-- Slim file manager -->
-  <project path="packages/apps/SlimFileManager" name="SlimRoms/packages_apps_SlimFileManager" remote="github" revision="kk4.4" />
+  <!-- Hellkat file manager -->
+    <project path="packages/apps/CMFileManager" name="Hellybean/android_packages_apps_CMFileManager" remote="github" revision="cm-11.0" />
 
   <!-- DSPManager -->
-  <project path="packages/apps/DSPManager" name="SlimRoms/packages_apps_DSPManager" remote="github" revision="kk4.4" />
+  <project path="packages/apps/DSPManager" name="Hellybean/android_packages_apps_DSPManager" remote="github" revision="cm-11.0" />
 
   <!--Power Hal -->
   <project path="hardware/cm" name="SlimRoms/hardware_cm" remote="github" revision="kk4.4" />
