@@ -440,9 +440,6 @@
   <!-- New Additions for slim -->
   <project path="vendor/slim" name="helldevs/vendor_helldevs" remote="github" revision="kk4.4" />
 
-  <!-- Slim OTA -->
-  <project path="packages/apps/SlimCenter" name="SlimRoms/packages_apps_SlimCenter" remote="github" revision="kk4.4" />
-
   <!-- Hellkat file manager -->
     <project path="packages/apps/CMFileManager" name="Hellybean/android_packages_apps_CMFileManager" remote="github" revision="cm-11.0" />
 
